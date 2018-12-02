@@ -12,7 +12,7 @@ myGithub = Github(access_token)
 
 
 #going to be interrogating this users github
-user = myGithub.get_user('abhishekbanthia')
+user = myGithub.get_user('wagoodman')
 
 
 
